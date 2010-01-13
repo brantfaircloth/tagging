@@ -1,0 +1,27 @@
+About
+========================
+
+This directory contains linkers.py and configuration.conf, 2 files used to 
+track and parse sequences from next-generation (Roche 454) DNA sequencers.
+
+Copyright
+========================
+
+The files contained within this directory are 
+
+Copyright (c) 2009-2010 Brant Faircloth. All rights reserved.
+
+License
+========================
+
+This software is currently available under the terms of the BSD License 
+(see LICENSE.txt).
+
+Prerequisites
+========================
+
+*  Python (2.6 or later)
+*  MySQL (with InnoDB support)
+*  Biopython (v 1.51 or later)
+
+
